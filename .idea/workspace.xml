@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="122ab1d5-5aee-4a61-9521-dc3d5c54340d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1xvahqZgt9h9DAu8s5VTfM38Dro" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaSenior" />
+  </component>
+  <component name="RunManager" selected="Application.RecursionTest">
+    <configuration name="ArrayExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.ArrayExceptionTest" />
+      <module name="day07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayExer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.exer.ArrayExer1" />
+      <module name="day07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.ArrayTest2" />
+      <module name="day07" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.RecursionTest" />
+      <module name="day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.contact.ScannerTest" />
+      <module name="Contacts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RecursionTest" />
+        <item itemvalue="Application.ScannerTest" />
+        <item itemvalue="Application.ArrayExer1" />
+        <item itemvalue="Application.ArrayExceptionTest" />
+        <item itemvalue="Application.ArrayTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="122ab1d5-5aee-4a61-9521-dc3d5c54340d" name="Default Changelist" comment="" />
+      <created>1631238137879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631238137879</updated>
+      <workItem from="1631238141258" duration="133000" />
+      <workItem from="1631427321240" duration="100000" />
+      <workItem from="1631589091666" duration="1397000" />
+      <workItem from="1631592599688" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1631592493904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1631592493904" />
+    <state width="1493" height="95" key="GridCell.Tab.0.bottom" timestamp="1631592687373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1631592687373" />
+    <state width="1493" height="95" key="GridCell.Tab.0.center" timestamp="1631592687373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1631592687373" />
+    <state width="1493" height="95" key="GridCell.Tab.0.left" timestamp="1631592687373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1631592687373" />
+    <state width="1493" height="95" key="GridCell.Tab.0.right" timestamp="1631592687373">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1631592687373" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1631592600346">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1631592600346" />
+  </component>
+</project>
